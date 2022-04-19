@@ -1,0 +1,5 @@
+# Snyk Code cache
+.dccache
+
+# Ignore the env file
+*.env
