@@ -2,6 +2,9 @@
 This is a script to move all projects from one Snyk org to another. 
 
 ## Before you begin:
+Ensure you are running a current version of Python.  You can get the latest version [here](https://www.python.org/downloads/). <br>
+
+
 Open Notepad or similar app and copy the following strings to use later:
 
 **Current Org ID**
