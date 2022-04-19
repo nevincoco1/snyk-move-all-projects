@@ -1,4 +1,4 @@
-# snyk-move-all-projects
+# move_projects.py
 This is a script to move all projects from one Snyk org to another. 
 
 ## Before you begin:
