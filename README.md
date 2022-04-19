@@ -31,3 +31,4 @@ Open Notepad or similar app and copy the following strings to use later:
 3. You will be asked to input your **Current Org ID**, **Destination Org ID**, and **Snyk API Token**. (You can just paste these in)
 4. The script will move all projects to the new org and remove them from the current org.  It should look similar to this:
 
+![image](https://user-images.githubusercontent.com/89480245/163911529-59f55e52-21e9-4011-8628-9a31a84067eb.png)
